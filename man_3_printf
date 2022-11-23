@@ -65,4 +65,4 @@ _printf("%s\n", "Hello, World");
 .SH BUGS
 No known bugs.
 .SH AUTHOR
-Dawit Hagos, Kibirt Chane
+Nathanael Akowan, Joe Ghartey Appiah
